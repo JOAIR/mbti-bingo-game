@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7fafc;
+}
+h1 {
+  text-align: center;
+  color: #2d3748;
+}
+.grid {
+  display: grid;
+  gap: 0.5rem;
+}
+button {
+  background-color: #3182ce;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
